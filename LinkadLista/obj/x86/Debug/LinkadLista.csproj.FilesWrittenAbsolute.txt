@@ -1,0 +1,5 @@
+/Users/danielwallman/Documents/Programmering/CSharp/CodeNChill/LinkadLista/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/danielwallman/Documents/Programmering/CSharp/CodeNChill/LinkadLista/bin/Debug/LinkadLista.exe.mdb
+/Users/danielwallman/Documents/Programmering/CSharp/CodeNChill/LinkadLista/bin/Debug/LinkadLista.exe
+/Users/danielwallman/Documents/Programmering/CSharp/CodeNChill/LinkadLista/obj/x86/Debug/LinkadLista.exe
+/Users/danielwallman/Documents/Programmering/CSharp/CodeNChill/LinkadLista/obj/x86/Debug/LinkadLista.exe.mdb

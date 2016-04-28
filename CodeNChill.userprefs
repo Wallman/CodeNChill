@@ -1,9 +1,9 @@
-﻿<Properties StartupItem="Dijkstra/Dijkstra.csproj">
+﻿<Properties StartupItem="LinkadLista/LinkadLista.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Dijkstra/Graph.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dijkstra/Program.cs">
     <Files>
-      <File FileName="Dijkstra/Program.cs" Line="11" Column="13" />
-      <File FileName="Dijkstra/Graph.cs" Line="44" Column="34" />
+      <File FileName="Dijkstra/Program.cs" Line="19" Column="52" />
+      <File FileName="Dijkstra/Graph.cs" Line="9" Column="56" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra", "Dijkstra\Dijkstra.csproj", "{69C4F119-EC5A-45D8-876E-7C90CE0DAA0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkadLista", "LinkadLista\LinkadLista.csproj", "{8974304A-E666-400F-B950-19F3CF0FE835}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{69C4F119-EC5A-45D8-876E-7C90CE0DAA0A}.Debug|x86.Build.0 = Debug|x86
 		{69C4F119-EC5A-45D8-876E-7C90CE0DAA0A}.Release|x86.ActiveCfg = Release|x86
 		{69C4F119-EC5A-45D8-876E-7C90CE0DAA0A}.Release|x86.Build.0 = Release|x86
+		{8974304A-E666-400F-B950-19F3CF0FE835}.Debug|x86.ActiveCfg = Debug|x86
+		{8974304A-E666-400F-B950-19F3CF0FE835}.Debug|x86.Build.0 = Debug|x86
+		{8974304A-E666-400F-B950-19F3CF0FE835}.Release|x86.ActiveCfg = Release|x86
+		{8974304A-E666-400F-B950-19F3CF0FE835}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
