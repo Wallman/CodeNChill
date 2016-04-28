@@ -1,1 +1,13 @@
-﻿<Properties StartupItem="Dijkstra/Dijkstra.csproj" />
+﻿<Properties StartupItem="Dijkstra/Dijkstra.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dijkstra/Graph.cs">
+    <Files>
+      <File FileName="Dijkstra/Program.cs" Line="11" Column="13" />
+      <File FileName="Dijkstra/Graph.cs" Line="44" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
